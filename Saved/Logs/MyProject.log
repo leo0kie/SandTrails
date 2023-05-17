@@ -1116,3 +1116,975 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.05.17-10.57.29:664][700]Cmd: SELECT NONE
 [2023.05.17-10.57.29:711][700]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2023.05.17-10.59.01:788][368]LogDerivedDataCache: C:/Users/Leo Kiefner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.086 and deleted 0 files with total size 0 MiB. Scanned 11241 files in 10906 folders with total size 1180 MiB.
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: ================================================
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: Total job queries 72, among them cache hits 0 (0.00%)
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 49 distinct outputs (68.06%)
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: RAM used: 0.52 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.17-11.55.53:776][387]LogShaderCompilers: Display: ================================================
+[2023.05.17-11.56.01:343][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.OffroadCar_Pawn
+[2023.05.17-11.56.01:418][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-11.56.03:344][688]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.05.17-11.56.53:140][688]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049952s
+[2023.05.17-11.56.53:910][688]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005533s (0.815168s overbudget)
+[2023.05.17-11.56.53:975][688]LogSlate: Took 0.041129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.17-11.56.54:685][689]LogSlate: Took 0.034320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.17-11.56.59:368][870]LogViewport: Scene viewport resized to 1015x610, mode Windowed.
+[2023.05.17-11.59.02:474][291]LogDerivedDataCache: C:/Users/Leo Kiefner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.772 and deleted 0 files with total size 0 MiB. Scanned 11241 files in 10906 folders with total size 1180 MiB.
+[2023.05.17-12.03.07:008][738]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.03.07:009][738]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-12.03.07:009][738]LogShaderCompilers: Display: Total job queries 105, among them cache hits 12 (11.43%)
+[2023.05.17-12.03.07:009][738]LogShaderCompilers: Display: Tracking 93 distinct input hashes that result in 62 distinct outputs (66.67%)
+[2023.05.17-12.03.07:009][738]LogShaderCompilers: Display: RAM used: 0.71 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2023.05.17-12.03.07:009][738]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-12.03.07:009][738]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.17-12.03.07:009][738]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.17-12.03.07:009][738]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.17-12.03.07:009][738]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.03.09:244][826]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/MI_Bright_Desert_Sand_sjzkfega_4K.MI_Bright_Desert_Sand_sjzkfega_4K
+[2023.05.17-12.03.09:247][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-12.03.09:532][826]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2023.05.17-12.03.09:779][826]LogViewport: Scene viewport resized to 1156x798, mode Windowed.
+[2023.05.17-12.03.09:920][826]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.17-12.03.14:332][  9]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.M_MS_Surface_Material
+[2023.05.17-12.03.14:338][  9]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-12.03.14:432][  9]MaterialEditorStats: Texture samplers: 0/16
+[2023.05.17-12.03.14:432][  9]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.05.17-12.03.14:432][  9]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-12.03.14:432][  9]MaterialEditorStats: Shader Count: 0
+[2023.05.17-12.03.14:444][  9]LogViewport: Scene viewport resized to 325x397, mode Windowed.
+[2023.05.17-12.03.14:689][ 11]MaterialEditorStats: Base pass shader: 348 instructions
+[2023.05.17-12.03.14:689][ 11]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.05.17-12.03.14:689][ 11]MaterialEditorStats: Texture samplers: 4/16
+[2023.05.17-12.03.14:689][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.05.17-12.03.14:689][ 11]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.05.17-12.03.14:689][ 11]MaterialEditorStats: Shader Count: 4
+[2023.05.17-12.11.52:399][756]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.11.52:399][756]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-12.11.52:400][756]LogShaderCompilers: Display: Total job queries 137, among them cache hits 26 (18.98%)
+[2023.05.17-12.11.52:400][756]LogShaderCompilers: Display: Tracking 111 distinct input hashes that result in 71 distinct outputs (63.96%)
+[2023.05.17-12.11.52:400][756]LogShaderCompilers: Display: RAM used: 0.80 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.05.17-12.11.52:400][756]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-12.11.52:400][756]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.05.17-12.11.52:400][756]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.05.17-12.11.52:400][756]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.05.17-12.11.52:400][756]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.11.53:567][797]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/OpenLand/Core/Materials/Deform/Read_OpenLand_Deform_Data.Read_OpenLand_Deform_Data
+[2023.05.17-12.11.53:569][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-12.11.53:693][797]LogViewport: Scene viewport resized to 325x397, mode Windowed.
+[2023.05.17-12.12.47:552][887]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.12.47:552][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.14.53:818][756]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/OpenLand/Blueprints/Deform/OpenLand_DeformComponent.OpenLand_DeformComponent
+[2023.05.17-12.14.53:819][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-12.22.44:819][142]LogViewport: Scene viewport resized to 504x649, mode Windowed.
+[2023.05.17-12.40.02:061][628]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.05.17-12.40.02:089][628]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.05.17-12.40.05:306][703]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.17-12.40.05:333][703]LogSlate: Window 'Content Browser' being destroyed
+[2023.05.17-12.40.09:607][809]LogSlate: Window 'OpenLand_DeformComponent' being destroyed
+[2023.05.17-12.40.09:626][809]LogSlate: Window 'OpenLand_DeformComponent' being destroyed
+[2023.05.17-12.40.09:631][809]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.40.09:631][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.40.09:685][809]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.40.09:685][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.40.09:703][809]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.40.09:703][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.40.09:723][809]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.40.09:724][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.41.34:606][532]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.05.17-12.41.34:617][532]LogContentBrowser: Creating deferred item: NewFolder
+[2023.05.17-12.41.34:627][533]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.05.17-12.41.36:630][624]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2023.05.17-12.41.36:630][624]LogContentBrowser: End creating deferred item NewFolder
+[2023.05.17-12.41.45:408][  3]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.05.17-12.41.45:416][  3]LogContentBrowser: Creating deferred item: NewWorld
+[2023.05.17-12.41.45:435][  5]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.05.17-12.41.54:634][416]LogContentBrowser: Attempting asset rename: NewWorld -> VallesMarineris
+[2023.05.17-12.41.54:634][416]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-12.41.54:656][416]LogContentBrowser: End creating deferred item NewWorld
+[2023.05.17-12.41.56:998][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.17-12.41.58:352][518]LogSlate: Window 'Save Content' being destroyed
+[2023.05.17-12.41.58:362][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-12.41.58:389][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/VallesMarineris" FILE="C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.17-12.41.58:415][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.17-12.41.58:423][518]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.007520 seconds
+[2023.05.17-12.41.58:424][518]LogSerialization: UsePackageTrailer: 'true'
+[2023.05.17-12.41.58:425][518]LogSavePackage: Moving output files for package: /Game/Maps/VallesMarineris
+[2023.05.17-12.41.58:425][518]LogSavePackage: Moving 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Saved/VallesMarineris71E29FEF48CAE2D73F721CAF52BF781C.tmp' to 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap'
+[2023.05.17-12.41.58:428][518]LogFileHelpers: Saving map 'VallesMarineris' took 0.040
+[2023.05.17-12.41.58:436][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms
+[2023.05.17-12.41.58:436][518]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VallesMarineris.VallesMarineris
+[2023.05.17-12.41.58:436][518]Cmd: MAP LOAD FILE="C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.17-12.41.58:436][518]LightingResults: New page: Lighting Build
+[2023.05.17-12.41.58:436][518]LoadErrors: New page: Loading map: VallesMarineris.umap
+[2023.05.17-12.41.58:439][518]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.41.58:439][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.41.58:439][518]MapCheck: New page: Map Check
+[2023.05.17-12.41.58:439][518]LightingResults: New page: Lighting Build
+[2023.05.17-12.41.58:463][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.17-12.41.58:468][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.17-12.41.58:481][518]LogWorld: UWorld::CleanupWorld for VallesMarineris, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.41.58:481][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.41.58:510][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.05.17-12.41.58:538][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.05.17-12.41.58:541][518]LogAudio: Display: Audio Device (ID: 1) registered with world 'VallesMarineris'.
+[2023.05.17-12.41.58:541][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-12.41.58:541][518]LogAIModule: Creating AISystem for world VallesMarineris
+[2023.05.17-12.41.58:559][518]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.17-12.41.58:586][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.05.17-12.41.58:591][518]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.17-12.41.58:591][518]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,104ms to complete.
+[2023.05.17-12.41.58:592][518]LogFileHelpers: Loading map 'VallesMarineris' took 0.155
+[2023.05.17-12.41.58:601][518]AssetCheck: New page: Asset Save: VallesMarineris
+[2023.05.17-12.41.58:601][518]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/VallesMarineris.VallesMarineris
+[2023.05.17-12.42.03:356][786]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.42.03:356][786]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-12.42.03:356][786]LogShaderCompilers: Display: Total job queries 396, among them cache hits 31 (7.83%)
+[2023.05.17-12.42.03:356][786]LogShaderCompilers: Display: Tracking 365 distinct input hashes that result in 177 distinct outputs (48.49%)
+[2023.05.17-12.42.03:356][786]LogShaderCompilers: Display: RAM used: 2.45 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.15%
+[2023.05.17-12.42.03:356][786]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-12.42.03:356][786]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.05.17-12.42.03:356][786]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.05.17-12.42.03:356][786]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Time job spent in pending queue: average 0.50 s, longest 0.99 s
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 0.93 s
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 1.50
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.50 s
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Average processing rate: 2.67 jobs/sec
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Total thread time: 2.16 s
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Total thread preprocess time: 0.14 s
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Percentage time preprocessing: 6.53%
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Effective parallelization: 1.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.15% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.65% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display:                                                 FLumenCardVS - 24.64% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.56% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.05.17-12.42.03:357][786]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.42.03:365][786]LogViewport: Scene viewport resized to 1592x1302, mode Windowed.
+[2023.05.17-12.42.09:148][270]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2023.05.17-12.42.09:896][335]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2023.05.17-12.42.11:049][428]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2023.05.17-12.42.11:824][492]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2023.05.17-12.42.35:782][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:789][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:791][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:796][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:796][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_11 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:800][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:800][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:810][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_19 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:820][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:825][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_23 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:828][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_24 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:829][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_25 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.42.35:830][794]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 2.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.43.14:442][556]LogViewport: Scene viewport resized to 2075x1302, mode Windowed.
+[2023.05.17-12.44.08:882][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-12.44.08:943][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/VallesMarineris" FILE="C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.17-12.44.08:969][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.17-12.44.09:166][748]LogSavePackage: Moving output files for package: /Game/Maps/VallesMarineris
+[2023.05.17-12.44.09:167][748]LogSavePackage: Moving 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Saved/VallesMarinerisB13EC55648F3A9FA3A51799A02FD2140.tmp' to 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap'
+[2023.05.17-12.44.09:174][748]LogFileHelpers: Saving map 'VallesMarineris' took 0.232
+[2023.05.17-12.44.09:180][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 298 ms (total: 372 ms)
+[2023.05.17-12.44.09:187][748]AssetCheck: New page: Asset Save: VallesMarineris
+[2023.05.17-12.44.09:187][748]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/VallesMarineris.VallesMarineris
+[2023.05.17-12.44.27:752][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.17-12.44.27:820][503]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewMap.NewMap
+[2023.05.17-12.44.27:820][503]Cmd: MAP LOAD FILE="C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.17-12.44.27:820][503]LightingResults: New page: Lighting Build
+[2023.05.17-12.44.27:820][503]LoadErrors: New page: Loading map: NewMap.umap
+[2023.05.17-12.44.27:823][503]LogWorld: UWorld::CleanupWorld for VallesMarineris, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.44.27:823][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.44.27:823][503]MapCheck: New page: Map Check
+[2023.05.17-12.44.27:823][503]LightingResults: New page: Lighting Build
+[2023.05.17-12.44.27:852][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.17-12.44.27:855][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.17-12.44.27:878][503]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.44.27:879][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.44.27:943][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.05.17-12.44.27:969][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.05.17-12.44.27:990][503]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2023.05.17-12.44.27:991][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-12.44.27:991][503]LogAIModule: Creating AISystem for world NewMap
+[2023.05.17-12.44.28:446][503]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.17-12.44.28:578][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.05.17-12.44.28:583][503]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.17-12.44.28:583][503]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,113ms to complete.
+[2023.05.17-12.44.28:584][503]LogFileHelpers: Loading map 'NewMap' took 0.763
+[2023.05.17-12.44.40:701][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.05.17-12.44.40:749][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:749][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:750][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:757][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:759][ 20]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/VallesMarineris.VallesMarineris
+[2023.05.17-12.44.40:759][ 20]Cmd: MAP LOAD FILE="C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.05.17-12.44.40:759][ 20]LightingResults: New page: Lighting Build
+[2023.05.17-12.44.40:759][ 20]LoadErrors: New page: Loading map: VallesMarineris.umap
+[2023.05.17-12.44.40:761][ 20]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.44.40:761][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.44.40:761][ 20]MapCheck: New page: Map Check
+[2023.05.17-12.44.40:761][ 20]LightingResults: New page: Lighting Build
+[2023.05.17-12.44.40:762][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:764][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_7 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:769][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:777][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:790][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_11 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:791][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:792][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.17-12.44.40:794][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:795][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.17-12.44.40:797][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_17 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:797][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:800][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_18 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:805][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_19 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:811][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_20 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:814][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:820][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:820][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_23 (BGRA8, 256x512 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:821][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:825][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_24 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:827][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_25 (BGRA8, 512x256 x1x1x1) (Required Memory Estimate: 4.062489 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:828][ 20]LogTexture: Display: Building textures: /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 2.062492 MB), EncodeSpeed: Fast
+[2023.05.17-12.44.40:847][ 20]LogWorld: UWorld::CleanupWorld for VallesMarineris, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.44.40:848][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.44.40:908][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.17-12.44.40:934][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.05.17-12.44.40:962][ 20]LogAudio: Display: Audio Device (ID: 1) registered with world 'VallesMarineris'.
+[2023.05.17-12.44.40:962][ 20]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-12.44.40:962][ 20]LogAIModule: Creating AISystem for world VallesMarineris
+[2023.05.17-12.44.41:545][ 20]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.17-12.44.41:701][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.17-12.44.41:707][ 20]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.17-12.44.41:707][ 20]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,105ms to complete.
+[2023.05.17-12.44.41:707][ 20]LogFileHelpers: Loading map 'VallesMarineris' took 0.948
+[2023.05.17-12.44.59:429][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OpenLand/Blueprints/Deform/OpenLand_DeformManager.OpenLand_DeformManager_C
+[2023.05.17-12.44.59:430][720]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OpenLand/Blueprints/Deform/OpenLand_DeformManager.OpenLand_DeformManager_C
+[2023.05.17-12.44.59:431][720]LogActorFactory: Actor Factory spawned Blueprint /Game/OpenLand/Blueprints/Deform/OpenLand_DeformManager.OpenLand_DeformManager as actor: OpenLand_DeformManager_C /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.OpenLand_DeformManager_C_0
+[2023.05.17-12.44.59:432][720]LogActorFactory: Actor Factory spawned Blueprint /Game/OpenLand/Blueprints/Deform/OpenLand_DeformManager.OpenLand_DeformManager as actor: OpenLand_DeformManager_C /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.OpenLand_DeformManager_C_0
+[2023.05.17-12.44.59:438][720]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.05.17-12.45.00:196][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OpenLand/Blueprints/Deform/OpenLand_DeformManager.OpenLand_DeformManager_C
+[2023.05.17-12.45.00:196][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/OpenLand/Blueprints/Deform/OpenLand_DeformManager.OpenLand_DeformManager_C
+[2023.05.17-12.45.00:198][750]LogActorFactory: Actor Factory spawned Blueprint /Game/OpenLand/Blueprints/Deform/OpenLand_DeformManager.OpenLand_DeformManager as actor: OpenLand_DeformManager_C /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.OpenLand_DeformManager_C_1
+[2023.05.17-12.45.00:200][750]LogActorFactory: Actor Factory spawned Blueprint /Game/OpenLand/Blueprints/Deform/OpenLand_DeformManager.OpenLand_DeformManager as actor: OpenLand_DeformManager_C /Game/Maps/VallesMarineris.VallesMarineris:PersistentLevel.OpenLand_DeformManager_C_1
+[2023.05.17-12.45.13:816][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-12.45.13:912][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/VallesMarineris" FILE="C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.17-12.45.13:938][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.17-12.45.14:132][337]LogSavePackage: Moving output files for package: /Game/Maps/VallesMarineris
+[2023.05.17-12.45.14:133][337]LogSavePackage: Moving 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Saved/VallesMarinerisA3C14D054AAAD0D52BB58192A790A42B.tmp' to 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap'
+[2023.05.17-12.45.14:142][337]LogFileHelpers: Saving map 'VallesMarineris' took 0.230
+[2023.05.17-12.45.14:147][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 331 ms (total: 704 ms)
+[2023.05.17-12.45.14:154][337]AssetCheck: New page: Asset Save: VallesMarineris
+[2023.05.17-12.45.14:154][337]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/VallesMarineris.VallesMarineris
+[2023.05.17-12.45.30:911][ 60]LogEditorClassViewer: Warning: Class /Game/OpenLand/Core/RVT/BP_Virtual_HFMesh.BP_Virtual_HFMesh_C has parent /Script/VirtualHeightfieldMesh.VirtualHeightfieldMesh, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-12.45.30:912][ 60]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-12.45.30:912][ 60]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-12.45.30:912][ 60]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-12.45.43:549][597]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.17-12.45.43:556][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.17-12.45.43:556][597]PIE: New page: PIE session: VallesMarineris (17.05.2023, 16:45:43)
+[2023.05.17-12.45.43:556][597]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_VallesMarineris
+[2023.05.17-12.45.43:580][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023759s)
+[2023.05.17-12.45.43:580][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/VallesMarineris.VallesMarineris to /Game/Maps/UEDPIE_0_VallesMarineris.VallesMarineris (0.023794s)
+[2023.05.17-12.45.43:580][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.17-12.45.43:580][597]LogAIModule: Creating AISystem for world VallesMarineris
+[2023.05.17-12.45.43:581][597]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2023.05.17-12.45.43:607][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.17-12.45.43:608][597]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.17-12.45.43:608][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.17-12.45.43:608][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.17-12.45.43:608][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.17-12.45.43:608][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.17-12.45.43:608][597]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.17-12.45.43:609][597]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.17-12.45.43:609][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.17-12.45.43:609][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.17-12.45.43:609][597]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.17-12.45.43:609][597]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.17-12.45.43:609][597]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.17-12.45.43:611][597]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.17-12.45.43:647][597]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Logitech G633 Gaming Headset)
+[2023.05.17-12.45.43:647][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.17-12.45.43:647][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.17-12.45.43:647][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.17-12.45.43:648][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.05.17-12.45.43:648][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2023.05.17-12.45.43:649][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.05.17-12.45.43:649][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.05.17-12.45.43:649][597]LogInit: FAudioDevice initialized.
+[2023.05.17-12.45.43:649][597]LogAudio: Display: Audio Device (ID: 3) registered with world 'VallesMarineris'.
+[2023.05.17-12.45.43:652][597]LogLoad: Game class is 'OffroadGameMode_C'
+[2023.05.17-12.45.43:656][597]LogWorld: Bringing World /Game/Maps/UEDPIE_0_VallesMarineris.VallesMarineris up for play (max tick rate 0) at 2023.05.17-14.45.43
+[2023.05.17-12.45.43:656][597]LogWorld: Bringing up level for play took: 0.003922
+[2023.05.17-12.45.43:658][597]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.05.17-12.45.43:659][597]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.05.17-12.45.43:663][597]PIE: Server logged in
+[2023.05.17-12.45.43:663][597]PIE: Play in editor total start time 0,109 seconds.
+[2023.05.17-12.46.22:421][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-12.46.22:421][187]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_VallesMarineris
+[2023.05.17-12.46.22:421][187]LogWorld: UWorld::CleanupWorld for VallesMarineris, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.46.22:422][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.46.22:444][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.17-12.46.22:449][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.46.22:477][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.17-12.46.22:477][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.17-12.46.22:479][187]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.05.17-12.46.22:487][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.17-12.46.22:538][188]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.05.17-12.47.02:048][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-12.47.02:113][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/VallesMarineris" FILE="C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.17-12.47.02:139][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.05.17-12.47.02:333][797]LogSavePackage: Moving output files for package: /Game/Maps/VallesMarineris
+[2023.05.17-12.47.02:334][797]LogSavePackage: Moving 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Saved/VallesMarineris95967F29456C64F5F57B4D93B17E8918.tmp' to 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap'
+[2023.05.17-12.47.02:343][797]LogFileHelpers: Saving map 'VallesMarineris' took 0.230
+[2023.05.17-12.47.02:348][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 300 ms (total: 1.00 sec)
+[2023.05.17-12.47.02:355][797]AssetCheck: New page: Asset Save: VallesMarineris
+[2023.05.17-12.47.02:355][797]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/VallesMarineris.VallesMarineris
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Total job queries 428, among them cache hits 61 (14.25%)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Tracking 367 distinct input hashes that result in 179 distinct outputs (48.77%)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: RAM used: 2.47 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.15%
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Time job spent in pending queue: average 0.50 s, longest 0.99 s
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 0.93 s
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 1.50
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.50 s
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Average processing rate: 2.67 jobs/sec
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Total thread time: 2.16 s
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Total thread preprocess time: 0.14 s
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Percentage time preprocessing: 6.53%
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Effective parallelization: 1.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.15% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.65% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display:                                                 FLumenCardVS - 24.64% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.56% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.05.17-12.47.34:823][ 98]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.49.17:596][339]LogEditorClassViewer: Warning: Class /Game/OpenLand/Core/RVT/BP_Virtual_HFMesh.BP_Virtual_HFMesh_C has parent /Script/VirtualHeightfieldMesh.VirtualHeightfieldMesh, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-12.49.17:596][339]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-12.49.17:596][339]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-12.49.17:596][339]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.17-12.49.26:610][716]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.17-12.49.26:639][716]LogSlate: Window 'Project Settings' being destroyed
+[2023.05.17-12.49.28:818][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.17-12.49.28:900][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/VallesMarineris" FILE="C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.17-12.49.28:983][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.05.17-12.49.29:176][808]LogSavePackage: Moving output files for package: /Game/Maps/VallesMarineris
+[2023.05.17-12.49.29:176][808]LogSavePackage: Moving 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Saved/VallesMarineris562430294FDEA67E0735B18EF1DF6452.tmp' to 'C:/Users/Leo Kiefner/Documents/Unreal Projects/MyProject/Content/Maps/VallesMarineris.umap'
+[2023.05.17-12.49.29:185][808]LogFileHelpers: Saving map 'VallesMarineris' took 0.285
+[2023.05.17-12.49.29:191][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 372 ms (total: 1.37 sec)
+[2023.05.17-12.49.29:198][808]AssetCheck: New page: Asset Save: VallesMarineris
+[2023.05.17-12.49.29:198][808]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/VallesMarineris.VallesMarineris
+[2023.05.17-12.49.31:891][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.05.17-12.50.26:014][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.05.17-12.50.27:459][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.05.17-12.50.27:460][583]LogStall: Shutdown...
+[2023.05.17-12.50.27:467][583]LogStall: Shutdown complete.
+[2023.05.17-12.50.27:490][583]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.05.17-12.50.27:501][583]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2023.05.17-12.50.27:581][584]Cmd: QUIT_EDITOR
+[2023.05.17-12.50.27:581][584]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.05.17-12.50.27:584][584]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.17-12.50.27:584][584]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.05.17-12.50.27:584][584]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.05.17-12.50.27:584][584]LogWorld: UWorld::CleanupWorld for VallesMarineris, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.50.27:584][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.17-12.50.27:585][584]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.05.17-12.50.27:585][584]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.05.17-12.50.28:039][584]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.17-12.50.28:039][584]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.17-12.50.28:039][584]LogAudio: Display: Audio Device unregistered from world 'VallesMarineris'.
+[2023.05.17-12.50.28:039][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.17-12.50.28:041][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.17-12.50.28:049][584]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.17-12.50.28:054][584]LogExit: Preparing to exit.
+[2023.05.17-12.50.28:086][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:093][584]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.17-12.50.28:805][584]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.50.28:807][584]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.50.28:809][584]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.50.28:810][584]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.50.28:812][584]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.17-12.50.28:864][584]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.05.17-12.50.28:873][584]LogExit: Editor shut down
+[2023.05.17-12.50.28:874][584]LogExit: Transaction tracking system shut down
+[2023.05.17-12.50.29:038][584]LogExit: Object subsystem successfully closed.
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Total job queries 445, among them cache hits 63 (14.16%)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Tracking 382 distinct input hashes that result in 190 distinct outputs (49.74%)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: RAM used: 2.56 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.16%
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Time job spent in pending queue: average 0.50 s, longest 0.99 s
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 0.93 s
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 1.50
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.50 s
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Average processing rate: 2.67 jobs/sec
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Total thread time: 2.16 s
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Total thread preprocess time: 0.14 s
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Percentage time preprocessing: 6.53%
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Effective parallelization: 1.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.15% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.65% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display:                                                 FLumenCardVS - 24.64% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 16.56% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2023.05.17-12.50.29:046][584]LogShaderCompilers: Display: ================================================
+[2023.05.17-12.50.29:114][584]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.05.17-12.50.29:125][584]LogVirtualization: UE::Virtualization was shutdown
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1007)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module BlueprintGraph (1005)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1003)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module Voice (1001)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (999)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (997)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module AddContentDialog (995)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module WidgetCarousel (994)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module EnvironmentLightingViewer (991)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module SubobjectEditor (989)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module SceneOutliner (987)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module StatusBar (985)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (983)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module StatsViewer (981)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (979)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module AutomationWorker (977)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (975)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (973)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (971)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (969)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module WebMMedia (967)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (965)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (963)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (961)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (959)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (957)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (955)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (953)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (951)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (949)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module SmartSnapping (947)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module TextureAlignMode (945)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module BspMode (943)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module GeometryMode (941)
+[2023.05.17-12.50.29:137][584]LogModuleManager: Shutting down and abandoning module WaveTableEditor (939)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (937)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module GooglePADEditor (935)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (933)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module SequenceRecorder (932)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (929)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (927)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (925)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (923)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module PlanarCut (921)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module CharacterAI (919)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module IKRigEditor (917)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module ControlRigEditor (915)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (913)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module SessionServices (911)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module MeshPaint (909)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (907)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module PlacementMode (906)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module FoliageEdit (903)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module LandscapeEditor (901)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (899)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module ActorPickerMode (897)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module ViewportSnapping (895)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module ViewportInteraction (893)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module ClothPainter (891)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (890)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module LogVisualizer (887)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (885)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (883)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (882)
+[2023.05.17-12.50.29:138][584]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (880)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (877)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (875)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (873)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (871)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module AnimationSettings (869)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (867)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module CSVtoSVG (865)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (863)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module EditorConfig (861)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (859)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module EditorFramework (857)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (855)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module TraceInsights (853)
+[2023.05.17-12.50.29:917][584]MemoryProfiler: Shutdown
+[2023.05.17-12.50.29:917][584]NetworkingProfiler: Shutdown
+[2023.05.17-12.50.29:917][584]LoadingProfiler: Shutdown
+[2023.05.17-12.50.29:917][584]TimingProfiler: Shutdown
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module TraceServices (852)
+[2023.05.17-12.50.29:917][584]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (849)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (848)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module InputBindingEditor (845)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module MergeActors (843)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (841)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module LocalizationService (840)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module HardwareTargeting (837)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (835)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module UndoHistory (833)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module XmlParser (831)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module Blutility (829)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (827)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (826)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (823)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (822)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module SettingsEditor (819)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module ProjectLauncher (817)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module SessionFrontend (815)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module ProfilerClient (813)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module DeviceManager (811)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module AutomationController (809)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module AutomationWindow (807)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module Layers (805)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (803)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module DetailCustomizations (801)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module PackagesDialog (799)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (797)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module Persona (795)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (794)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module AnimGraph (792)
+[2023.05.17-12.50.29:918][584]LogModuleManager: Shutting down and abandoning module Kismet (789)
+[2023.05.17-12.50.29:924][584]LogModuleManager: Shutting down and abandoning module KismetWidgets (788)
+[2023.05.17-12.50.29:924][584]LogModuleManager: Shutting down and abandoning module GraphEditor (785)
+[2023.05.17-12.50.29:924][584]LogModuleManager: Shutting down and abandoning module StructViewer (783)
+[2023.05.17-12.50.29:924][584]LogModuleManager: Shutting down and abandoning module ClassViewer (781)
+[2023.05.17-12.50.29:925][584]LogModuleManager: Shutting down and abandoning module NaniteTools (779)
+[2023.05.17-12.50.29:925][584]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (777)
+[2023.05.17-12.50.29:926][584]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (775)
+[2023.05.17-12.50.29:926][584]LogModuleManager: Shutting down and abandoning module SourceControlWindows (773)
+[2023.05.17-12.50.29:926][584]LogModuleManager: Shutting down and abandoning module OutputLog (771)
+[2023.05.17-12.50.29:926][584]LogModuleManager: Shutting down and abandoning module Documentation (769)
+[2023.05.17-12.50.29:926][584]LogModuleManager: Shutting down and abandoning module LiveCoding (767)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (765)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module MovieScene (763)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (761)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (759)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (757)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module AudioMixer (756)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module AudioMixerCore (755)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module LauncherPlatform (751)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module AnalyticsET (749)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module PortalServices (747)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module PortalRpc (745)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module MessagingRpc (743)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module AIModule (741)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module GameplayDebugger (740)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module AITestSuite (738)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module NavigationSystem (736)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module DataLayerEditor (733)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module EditorWidgets (732)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (729)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (727)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module TypedElementFramework (725)
+[2023.05.17-12.50.29:937][584]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (723)
+[2023.05.17-12.50.29:946][584]LogModuleManager: Shutting down and abandoning module ProfilerService (721)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module TaskGraph (719)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (717)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (715)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module TakesCore (713)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (711)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module MegascansPlugin (709)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module Bridge (707)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (705)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (703)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (701)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module CollectionManager (700)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module LightMixer (697)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (695)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (693)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module MediaPlate (691)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module MediaCompositing (689)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module ImgMedia (687)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (685)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (683)
+[2023.05.17-12.50.30:037][584]LogModuleManager: Shutting down and abandoning module Paper2DEditor (681)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (677)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (675)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module StylusInput (673)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (671)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module PluginBrowser (669)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (667)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (665)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (663)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (661)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GLTFImporter (659)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GLTFCore (657)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (655)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module EditorDebugTools (653)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module CurveEditorTools (651)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (649)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module CryptoKeys (647)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (645)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module TakeSequencer (643)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module TakeMovieScene (641)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module SynthesisEditor (639)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ResonanceAudio (637)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (635)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (633)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (631)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ModelingOperators (629)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (627)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ModelingComponents (625)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GeometryFramework (624)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (621)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module MeshModelingTools (619)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module InputDebugging (617)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GooglePAD (615)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module DynamicMesh (613)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (611)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (609)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (607)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (605)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module AudioCapture (603)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (602)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module AssetTags (599)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (597)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (595)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module AppleImageUtils (593)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module AndroidPermission (591)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (589)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (587)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (585)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (583)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module UObjectPlugin (581)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (579)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (577)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module PluginUtils (575)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (573)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GitSourceControl (571)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module DumpGPUServices (569)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (567)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (565)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (563)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module InterchangeTests (561)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module TemplateSequence (559)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (557)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module SequencerScripting (555)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (553)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module UVEditorTools (551)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module UVEditor (549)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module RawInput (547)
+[2023.05.17-12.50.30:038][584]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (545)
+[2023.05.17-12.50.30:038][584]LogOpenImageDenoise: OIDN shutting down
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (543)
+[2023.05.17-12.50.30:038][584]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (541)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (539)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (537)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MeshLODToolset (535)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module LandmassEditor (533)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module Landmass (531)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module Iris (529)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (527)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (525)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (523)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (521)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (519)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (518)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (516)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (513)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module DataflowNodes (511)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module DataflowEditor (509)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (507)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (505)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ChaosNiagara (503)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module FractureEditor (501)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (499)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module BackChannel (497)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (495)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AutomationUtils (493)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (491)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AlembicImporter (489)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AlembicLibrary (488)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryCache (487)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (486)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module VariantManager (481)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (480)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (477)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (475)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (473)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ControlRigSpline (471)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (469)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (467)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (465)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (463)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (461)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeEditor (459)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (457)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (455)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (453)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangePipelines (451)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeExport (449)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeMessages (447)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeImport (445)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (443)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InterchangeNodes (441)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (439)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module TraceUtilities (437)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (435)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (433)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module InputEditor (431)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (429)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module Paper2D (427)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (425)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module Niagara (423)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module NiagaraEditor (422)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module NiagaraCore (419)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (417)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (415)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module FacialAnimation (413)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module DataValidation (411)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (409)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ContentBrowser (408)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ContentBrowserData (407)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module TreeMap (404)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module Synthesis (401)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module SoundFields (399)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module SignificanceManager (397)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (395)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (393)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MetasoundEditor (391)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module ToolMenus (390)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AudioWidgets (388)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (387)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (383)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MetasoundEngine (381)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module WaveTable (380)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (378)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (375)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (373)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (371)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (369)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (367)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (365)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module CableComponent (363)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (361)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (360)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (357)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module SignalProcessing (356)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (353)
+[2023.05.17-12.50.30:039][584]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (351)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module AnimationSharing (349)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module ActorSequence (347)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (345)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module PBIK (343)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module FullBodyIK (341)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module ChaosVehiclesEditor (339)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module ChaosVehicles (337)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (335)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module TakeRecorder (334)
+[2023.05.17-12.50.30:040][584]LogModuleManager: Shutting down and abandoning module LevelEditor (332)
+[2023.05.17-12.50.30:043][584]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (331)
+[2023.05.17-12.50.30:043][584]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (329)
+[2023.05.17-12.50.30:043][584]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (327)
+[2023.05.17-12.50.30:043][584]LogModuleManager: Shutting down and abandoning module MainFrame (325)
+[2023.05.17-12.50.30:043][584]LogModuleManager: Shutting down and abandoning module HotReload (324)
+[2023.05.17-12.50.30:044][584]LogModuleManager: Shutting down and abandoning module ChaosCaching (319)
+[2023.05.17-12.50.30:044][584]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (317)
+[2023.05.17-12.50.30:044][584]LogModuleManager: Shutting down and abandoning module IKRig (315)
+[2023.05.17-12.50.30:044][584]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (313)
+[2023.05.17-12.50.30:044][584]LogModuleManager: Shutting down and abandoning module ControlRig (311)
+[2023.05.17-12.50.30:044][584]LogModuleManager: Shutting down and abandoning module LevelSequence (310)
+[2023.05.17-12.50.30:044][584]LogModuleManager: Shutting down and abandoning module UdpMessaging (307)
+[2023.05.17-12.50.30:145][584]LogModuleManager: Shutting down and abandoning module TcpMessaging (305)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module GameplayCameras (303)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (301)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (295)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (293)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2023.05.17-12.50.30:246][584]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2023.05.17-12.50.30:247][584]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2023.05.17-12.50.30:247][584]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module Core (227)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2023.05.17-12.50.30:249][584]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2023.05.17-12.50.30:260][584]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2023.05.17-12.50.30:260][584]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2023.05.17-12.50.30:264][584]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2023.05.17-12.50.30:264][584]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2023.05.17-12.50.30:264][584]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2023.05.17-12.50.30:264][584]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.05.17-12.50.30:265][584]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.05.17-12.50.30:266][584]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.05.17-12.50.30:266][584]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.05.17-12.50.30:266][584]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.05.17-12.50.30:266][584]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.05.17-12.50.30:266][584]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.05.17-12.50.30:266][584]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.05.17-12.50.30:266][584]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.05.17-12.50.30:266][584]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.05.17-12.50.30:266][584]LogModuleManager: Shutting down and abandoning module WmfMedia (112)
+[2023.05.17-12.50.30:279][584]LogModuleManager: Shutting down and abandoning module Media (111)
+[2023.05.17-12.50.30:281][584]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (108)
+[2023.05.17-12.50.30:281][584]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (106)
+[2023.05.17-12.50.30:281][584]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (104)
+[2023.05.17-12.50.30:281][584]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2023.05.17-12.50.30:283][584]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2023.05.17-12.50.30:283][584]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2023.05.17-12.50.30:297][584]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2023.05.17-12.50.30:297][584]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.05.17-12.50.30:297][584]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE9811AE3-4BBD-305C-ED37-D4B8A31C3DBA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=1d8196954ac014ee792343a29ed6a8e8%7Cca1e6b962c324217be603ddd1db4c864%7Ce6d07e8c-d1f2-4ac7-9941-949b27de15ad&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.05.17-12.50.30:302][584]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (88)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (86)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (84)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (82)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module NiagaraShader (80)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (78)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module ChunkDownloader (74)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module PixWinPlugin (72)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module ChaosCloth (70)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module VariantManagerContent (68)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module GLTFExporter (66)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module DatasmithContent (64)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (62)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module AISupportModule (60)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.05.17-12.50.30:304][584]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.05.17-12.50.30:305][584]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.05.17-12.50.30:305][584]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.05.17-12.50.30:306][584]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.05.17-12.50.30:306][584]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.05.17-12.50.30:306][584]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.05.17-12.50.30:306][584]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.05.17-12.50.30:306][584]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.05.17-12.50.30:306][584]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.05.17-12.50.30:306][584]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.05.17-12.50.30:307][584]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.05.17-12.50.30:736][584]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.05.17-12.50.30:753][584]LogExit: Exiting.
+[2023.05.17-12.50.30:762][584]Log file closed, 05/17/23 14:50:30
